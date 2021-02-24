@@ -1,0 +1,33 @@
+.main-div-card {
+  display: flex;
+  justify-content: center;
+  border: 2px solid green;
+  border-radius: 10px;
+  margin: 30px;
+}
+.inner-div {
+  margin: 10px;
+}
+.main-div-card-two {
+  display: flex;
+  justify-content: center;
+  border: 2px solid blue;
+  border-radius: 10px;
+  margin: 30px;
+}
+.inner-div-two {
+  margin: 10px;
+}
+.inner-div-three {
+  margin: 10px;
+}
+.main-div-card-three {
+  display: flex;
+  justify-content: center;
+  border: 2px solid purple;
+  border-radius: 10px;
+  margin: 30px;
+}
+.main-container {
+  display: inline-block;
+}

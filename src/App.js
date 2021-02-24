@@ -1,11 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Login from "../src/components/login";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Album from "./components/album/index";
+import Excercise from "./excerciseone/index";
 function App() {
   return (
     <div className="App">
-      <Login />
+      <Album />
+      <Excercise />
     </div>
   );
 }
